@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Woodii
 - 🔭 I’m currently working on [coScene](https://github.com/coscene-io)（刻行）
-![](https://github-readme-stats.vercel.app/api?username=Woodii1998)
+- 🌱 I’m currently learning ![Vite](https://img.shields.io/badge/-Vite-616161?logo=vite&style=plastic) ![Rust](https://img.shields.io/badge/-Rust-616161?logo=Rust&style=plastic)
+
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=Woodii1998"></div>
 <!--
 **Woodii1998/Woodii1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<img src="https://img.shields.io/badge/-vite-616161?logo=vite&style=plastic">
+
+![Vite](https://img.shields.io/badge/-vite-616161?logo=vite&style=for-the-badge)
